@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/deanhume/lazy-observer-load.git"
+    "url": "git+https://github.com/rejas/lazy-observer-load.git"
   },
   "keywords": [
     "lazy",
@@ -19,7 +19,7 @@
   "author": "Dean Hume",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/deanhume/lazy-observer-load/issues"
+    "url": "https://github.com/rejas/lazy-observer-load/issues"
   },
-  "homepage": "https://github.com/deanhume/lazy-observer-load#readme"
+  "homepage": "https://github.com/rejas/lazy-observer-load#readme"
 }
